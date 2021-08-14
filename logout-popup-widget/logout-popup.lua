@@ -183,5 +183,6 @@ end
 
 return {
     launch = launch,
-    widget = widget
+    widget = widget,
+    w = w
 }
